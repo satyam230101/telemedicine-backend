@@ -1,0 +1,4 @@
+Patient: John Doe
+Fasting blood glucose: 180 mg/dl
+HbA1c: 8.2%
+Diagnosis: Possible diabetes
